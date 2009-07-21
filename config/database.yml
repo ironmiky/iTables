@@ -20,8 +20,8 @@ development:
   reconnect: false
   database: iTables_development
   pool: 5
-  username: root
-  password:
+  username: itables
+  password: qulo
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
